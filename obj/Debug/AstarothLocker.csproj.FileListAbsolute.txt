@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\AstarothLocker.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\AstarothLocker.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\Guna.UI.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\Leaf.xNet.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\MetroSuite 2.0.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\Siticone.UI.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\Leaf.xNet.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\obj\Debug\AstarothLocker.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\obj\Debug\AstarothLocker.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\obj\Debug\AstarothLocker.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\obj\Debug\AstarothLocker.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\AstarothLocker\AstarothLocker\obj\Debug\AstarothLocker.csprojAssemblyReference.cache
